@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.eightvision.com.br/
+Sitemap: https://www.eightvision.com.br/sitemap.xml
